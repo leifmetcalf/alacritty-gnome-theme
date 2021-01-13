@@ -1,4 +1,6 @@
-# The 'GNOME Dark" theme from GNOME terminal.
+# The 'GNOME Dark" theme from GNOME terminal. The unix command `ls` has poor
+# contrast between the background and the bold folder names with this theme.
+# This problem can be fixed by setting `draw_bold_text_with_bright_colors: true`.
 
 colors:
   primary:
