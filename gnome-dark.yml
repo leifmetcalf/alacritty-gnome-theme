@@ -4,6 +4,7 @@ colors:
   primary:
     foreground: '#d0cfcc'
     background: '#171421'
+    bright_foreground: '#ffffff'
 
   normal:
     black:   '#171421'
